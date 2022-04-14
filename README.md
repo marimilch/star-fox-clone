@@ -11,7 +11,7 @@ of a forward flying ship. Some object locations are bound to the moving map (lik
 while some are free (like flying enemies, most projectiles). 
 
 Every object is active only if it is in a certain "box" surrounding 
-the player. If the object is too far away in negative z-direction or if the player just passed it the object is
+the player. If the object is too far away in positive z-direction or if the player just passed it the object is
 disabled.
 
 The player slightly tilts left and right to give an illusion of floatiness.
