@@ -1,5 +1,7 @@
 # Star Fox SNES Clone in Unity
 This is a clone fo the SNES version of Star Fox programmed in Unity. ```/Assets/Scripts``` contains all the game scripts.
+```/Assets/Models``` contains all the models. The initial project only contained the game scripts however it seemed 
+to make aa lot more sense to include everything in the repository. Therefore it was moved to a new one.
 
 ## Scene
 The player does not actually move forward but the map in negative z-direction creating the illusion 
