@@ -1,6 +1,10 @@
 # Star Fox SNES Clone in Unity
 _For a tldr; check it out on [marimilch.de](https://marimilch.de/projects/starfox-clone/)_
 
+## Preview
+https://github.com/marimilch/star-fox-clone/assets/52521188/4b04ee5e-9dc4-4437-841d-a4580d7f3814
+
+## About
 This is a clone fo the SNES version of Star Fox programmed in Unity. ```/Assets/Scripts``` contains all the game scripts.
 ```/Assets/Models``` contains all the models. The initial project only contained the game scripts however it seemed 
 to make a lot more sense to include everything in the repository. Therefore it was moved to a new one.
